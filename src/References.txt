@@ -1,0 +1,24 @@
+
+Command information / implementation strategy
+
+http://codewiki.wikidot.com/c:system-calls:dup2
+http://stackoverflow.com/questions/1500004/how-can-i-implement-my-own-basic-unix-shell-in-c
+http://www.cplusplus.com/reference/cstdlib/getenv/
+http://tldp.org/LDP/lpg/node11.html
+http://codewiki.wikidot.com/c:system-calls:open
+http://brennan.io/2015/01/16/write-a-shell-in-c/
+http://man7.org/linux/man-pages/man2/getcwd.2.html
+http://www.unix.com/shell-programming-and-scripting/32524-piping-output-echo.html
+http://stackoverflow.com/questions/30526302/unix-piping-echo-and-cat
+http://stackoverflow.com/questions/10649273/where-is-the-definition-of-extern-char-environ
+http://pubs.opengroup.org/onlinepubs/009695399/functions/getcwd.html
+http://man7.org/linux/man-pages/man2/chdir.2.html
+http://stackoverflow.com/questions/890894/portable-way-to-find-out-if-a-command-exists-c-c
+http://www.tutorialspoint.com/c_standard_library/c_function_strtok.htm
+http://linux.die.net/man/3/execvp
+http://linux.die.net/man/2/setpriority
+http://superuser.com/questions/789026/eof-ascii-hex-code-in-text-files
+
+Student
+
+Worked with Peter Chen on understanding the problem, code strategy, error checking.
